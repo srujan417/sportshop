@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <head>
+        <title >HTML Forms</title>
+    </head >
+ 
+    
+    <p style = "background-color: red;">Student Details:</p>
+    <form>
+
+        Student Name:<br> <input type="text" name="name">
+        <br>
+        Student Subject:<br> <input type="text" name="subject">
+        <br>
+        Gender : <br> <input type="text" name="Gender">
+        <br>
+        Game Name : <br> <input type="text" name="Game">
+        <br>
+        Qualification : <br> <input type="text" name="Qualification">
+        <br>
+        Level of teaching:basic/intermediate/expert
+        : <br> <input type="text" name="Teching">
+        <br>
+        Experience : <br> <input type="text" name="Experience">
+        <br>
+        Timmings:<br> <input type="text" name="Timmings">
+        <br>
+        Location:<br> <input type="text" name="Location">
+        <br>
+        Salary per day:<br> <input type="text" name="salary">
+        <br>
+        Sports certificates:<br> <input type="text" name="Sports certificates">
+        <br>
+        Location:<br> <input type="text" name="Location">
+        <br>
+        Phone number:<br> <input type="text" name="Phone number">
+        <br>
+        Email:<br> <input type="text" name="Email">
+        <br>
+        Students rating:<br> <input type="text" name="Students rating">
+
+    </form>
+</body>
+
+</html>
